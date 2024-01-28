@@ -1,0 +1,22 @@
+body{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background-color: #3b3b4f
+  }
+  fieldset{
+    border: none;
+    padding: 0.5rem 0;
+    border-bottom: 3px solid #3b3b4f;
+  }
+  label{
+    display: block;
+    margin: 0.5rem 0;
+  }
+  form{
+    padding-bottom: 2rem; 
+    width: 40vw;
+    max-width: 300px;
+    min-width: 150px;
+    margin: 0 auto;
+  }
